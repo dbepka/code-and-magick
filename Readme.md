@@ -1,9 +1,8 @@
 # Личный проект «Код и магия»
 
-[![Build status][travis-image]][travis-url]
-[![Dependency status][dependency-image]][dependency-url]
-
 ### Немного о себе
+
+* Студент: [Торохов Михаил]
 
 ##### Вы прошли интенсивный онлайн-курс «Базовый HTML и CSS»?
 `Да, успешно`.
